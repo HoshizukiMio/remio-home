@@ -31,7 +31,7 @@
   },
   "layoutConfig": {
     "gapSize": "lg",
-    "style": "",
+    "style": "horizontal",
     "istTransition": true
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
