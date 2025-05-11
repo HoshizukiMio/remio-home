@@ -43,10 +43,10 @@
     "shadow": false,
     "typingCursor": true,
     "showFrom": true,
-    "style": "desc",
+    "style": "default",
     "gapDelay": 0.05,
     "content": "Hello💫，这里是星月澪の主页",
-    "desc": "高中生，努力学习中，好耶！🥰;https://v1.hitokoto.cn?c=a&c=b&c=c"
+    "desc": "高中生，努力学习中，好耶！🥰"
   },
   "links": [
     {
