@@ -32,7 +32,7 @@
   },
   "layoutConfig": {
     "gapSize": "lg",
-    "style": "horizontal",
+    "style": "vertical",
     "istTransition": true
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
@@ -43,7 +43,7 @@
     "shadow": false,
     "typingCursor": true,
     "showFrom": true,
-    "style": "default",
+    "style": "desc",
     "gapDelay": 0.05,
     "content": "Hello💫，这里是星月澪の主页",
     "desc": "高中生，努力学习中，好耶！🥰"
