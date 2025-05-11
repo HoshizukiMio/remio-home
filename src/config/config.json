@@ -4,8 +4,8 @@
   "keywords": "hoshizukimio,mio,星月澪的个人博客,星月澪,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "星月澪の次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://img.hoshizukimio.top/file/1746963170872_avatar.webp",
-    "size": 150,
+    "src": "https://img.hoshizukimio.com/file/1746972144106_avatar.webp",
+    "size": 128,
     "round": "full",
     "style": "wave",
     "hoverAnimate": "top",
@@ -13,9 +13,9 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
-    "audio": "/Wreath_of_Brave.mp3",
+    "bg": ["https://img.hoshizukimio.com/file/1746972611143_bg1.webp"],
+    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp","https://img.hoshizukimio.com/file/1746972068368_seele1.jpg","https://img.hoshizukimio.com/file/1746972236539_seele2.png","https://img.hoshizukimio.com/file/1746972235858_seele3.png"],
+    "audio": "https://r2.hoshizukimio.com/Wreath_of_Brave.mp3",
     "bgStyle": "sakura",
     "blur": "",
     "cardOpacity": 0.1,
