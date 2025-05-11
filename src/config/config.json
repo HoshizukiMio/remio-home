@@ -1,10 +1,10 @@
 {
   "name": "星月澪の主页✨",
   "favicon": "/favicon.ico",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "hoshizukimio,mio,星月澪的个人博客,星月澪,个人主页,主页,个人记录,技术博客,个人生活",
+  "description": "星月澪の次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://img.hoshizukimio.top/file/1746961199334_IMG_20250511_185917.png",
+    "src": "https://img.hoshizukimio.top/file/1746963170872_avatar.webp",
     "size": 150,
     "round": "full",
     "style": "wave",
@@ -15,7 +15,7 @@
   "bgConfig": {
     "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
     "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
-    "bgStyle": "snow",
+    "bgStyle": "sakura",
     "blur": "",
     "cardOpacity": 0.1,
     "carousel": true,
@@ -44,38 +44,32 @@
     "showFrom": true,
     "style": "desc",
     "gapDelay": 0.05,
-    "content": "Hello💫，这里是kasuieの主页",
-    "desc": "kasuie是自己胡乱起的，也可以叫我暖暖;已经毕业快两年半了，主要捣鼓一些前端，会点点后端，目标是成为一个温柔的全栈开发，好耶！🥰"
+    "content": "Hello💫，这里是星月澪の主页",
+    "desc": "高中生，努力学习中，好耶！🥰"
   },
   "links": [
     {
-      "title": "qq",
-      "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
-      "icon": "qq"
-    },
-    {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/PixivLips",
+      "url": "https://t.me/HoshizukiMio",
       "icon": "telegram"
     },
     {
       "title": "github",
       "color": "#000000",
-      "url": "https://github.com/kasuie",
+      "url": "https://github.com/HoshizukiMio",
       "icon": "github"
     },
     {
       "title": "twitter",
       "color": "#1da1f2",
-      "url": "https://twitter.com/kasuie3",
+      "url": "https://twitter.com/HoshizukiMio",
       "icon": "twitter"
     },
     {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@kasuie.cc",
+      "url": "mailto:i@hoshizukimio.com",
       "icon": "email"
     },
     {
@@ -87,7 +81,7 @@
     {
       "title": "bilibili",
       "color": "#0088cc",
-      "url": "https://space.bilibili.com/85447052",
+      "url": "https://space.bilibili.com/348794946",
       "icon": "bilibili"
     }
   ],
@@ -259,14 +253,12 @@
     ],
     "title": "技能加点",
     "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
-    "hidden": false,
+    "hidden": true,
     "column": 4
   },
   "footer": {
-    "text": "© 2020 - 2025 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
+    "text": "© 2025 - 2025 By HoshizukiMio",
+    "url": "https://hoshizukimio.com",
     "direction": "col-reverse",
     "isExternal": true
   },
@@ -275,5 +267,5 @@
     "js": [],
     "bodyHtml": ""
   },
-  "domain": "https://remio-home.vercel.app"
+  "domain": "https://hoshizukimio.com"
 }
