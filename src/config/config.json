@@ -7,7 +7,7 @@
     "src": "https://img.hoshizukimio.com/file/1746972144106_avatar.webp",
     "size": 128,
     "round": "full",
-    "style": "wave",
+    "style": "glint",
     "hoverAnimate": "top",
     "hidden": false,
     "aloneRight": false
@@ -28,7 +28,7 @@
   "globalStyle": {
     "primaryColor": "#0dbf56",
     "theme": "switcher",
-    "weather": true
+    "weather": false
   },
   "layoutConfig": {
     "gapSize": "lg",
@@ -46,7 +46,7 @@
     "style": "desc",
     "gapDelay": 0.05,
     "content": "Hello💫，这里是星月澪の主页",
-    "desc": "高中生，努力学习中，好耶！🥰"
+    "desc": "高中生，努力学习中，好耶！🥰;https://v1.hitokoto.cn?c=a&c=b&c=c"
   },
   "links": [
     {
