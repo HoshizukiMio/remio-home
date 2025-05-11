@@ -15,6 +15,7 @@
   "bgConfig": {
     "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
     "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
+    "audio": "/Wreath_of_Brave.mp3",
     "bgStyle": "sakura",
     "blur": "",
     "cardOpacity": 0.1,
