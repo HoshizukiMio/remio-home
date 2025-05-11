@@ -37,6 +37,7 @@
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
   "subTitleConfig": {
+    "heart": false,
     "typing": true,
     "loading": "wave",
     "loopTyping": true,
