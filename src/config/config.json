@@ -4,7 +4,7 @@
   "keywords": "hoshizukimio,mio,星月澪的个人博客,星月澪,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "星月澪の次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://img.hoshizukimio.com/file/1746972144106_avatar.webp",
+    "src": "https://pix.hoshizukimio.workers.dev/bkt/20260208_f788edd1.jpg",
     "size": 128,
     "round": "full",
     "style": "glint",
@@ -13,8 +13,16 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://img.hoshizukimio.com/file/1746972611143_bg1.webp"],
-    "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp","https://img.hoshizukimio.com/file/1746972068368_seele1.jpg","https://img.hoshizukimio.com/file/1746972236539_seele2.png","https://img.hoshizukimio.com/file/1746972235858_seele3.png"],
+    "bg": [
+      "https://kasuie.cc/api/img/bg?size=regular"
+    ],
+    "mbg": [
+      "https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp",
+      "https://img.hoshizukimio.com/file/1746972068368_seele1.jpg",
+      "https://img.hoshizukimio.com/file/1746972236539_seele2.png",
+      "https://img.hoshizukimio.com/file/1746972235858_seele3.png",
+      "https://kasuie.cc/api/img/bg?type=mobile&size=regular"
+    ],
     "audio": "https://r2.hoshizukimio.com/Wreath_of_Brave.mp3",
     "bgStyle": "sakura",
     "blur": "",
@@ -53,7 +61,7 @@
     {
       "title": "telegram",
       "color": "#1da1f2",
-      "url": "https://t.me/HoshizukiMio",
+      "url": "https://t.me/hoshizukimio",
       "icon": "telegram"
     },
     {
@@ -63,15 +71,9 @@
       "icon": "github"
     },
     {
-      "title": "twitter",
-      "color": "#1da1f2",
-      "url": "https://twitter.com/HoshizukiMio",
-      "icon": "twitter"
-    },
-    {
       "title": "email",
       "color": "#fd3232",
-      "url": "mailto:i@hoshizukimio.com",
+      "url": "mailto:hoshizukimio@hoshizukimio.com",
       "icon": "email"
     },
     {
@@ -90,8 +92,8 @@
   "sites": [
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://kasuie.cc",
+      "title": "KASUIEの博客",
+      "url": "https://blog.hoshizukimio.com",
       "desc": "博客主页"
     },
     {
@@ -129,53 +131,6 @@
       "title": "KASUIEのDocs",
       "url": "https://docs.kasuie.cc",
       "desc": "文档服务"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
-      "title": "杂七杂八",
-      "desc": "阿巴阿巴..."
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
-      "title": "喜好生成表",
-      "url": "https://like.kasuie.cc",
-      "desc": "个人喜好生成表"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://hexo.kasuie.cc",
-      "desc": "Hexo版本博客程序"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v3.kasuie.cc",
-      "desc": "上版本的博客程序(服务关了"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v2.kasuie.cc",
-      "desc": "早期博客主题(v2)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v1.kasuie.cc",
-      "desc": "早期博客主题(v1)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
-      "title": "KASUIEの次元",
-      "url": "https://v0.kasuie.cc",
-      "desc": "早期博客主题(v0)"
-    },
-    {
-      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
-      "title": "KASUIEの导航",
-      "url": "https://pixlips.github.io",
-      "desc": "导航页(beta)"
     }
   ],
   "sitesConfig": {
