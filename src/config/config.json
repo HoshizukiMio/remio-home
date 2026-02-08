@@ -4,7 +4,7 @@
   "keywords": "hoshizukimio,mio,星月澪的个人博客,星月澪,个人主页,主页,个人记录,技术博客,个人生活",
   "description": "星月澪の次元，兴趣至上，内容随缘，个人主页",
   "avatarConfig": {
-    "src": "https://pix.hoshizukimio.workers.dev/bkt/20260208_f788edd1.jpg",
+    "src": "https://pix.hoshizukimio.com/bkt/20260208_f788edd1.jpg",
     "size": 128,
     "round": "full",
     "style": "glint",
@@ -91,7 +91,7 @@
   ],
   "sites": [
     {
-      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "icon": "https://pix.hoshizukimio.com/bkt/20260208_9baf5aeb.png",
       "title": "KASUIEの博客",
       "url": "https://blog.hoshizukimio.com",
       "desc": "博客主页"
